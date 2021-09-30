@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\bin\Debug\TipCalculator.exe.config
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\bin\Debug\TipCalculator.exe
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.Form1.resources
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.exe
+C:\Users\Lenovo\Desktop\tip calculator\TipCalculator\obj\Debug\TipCalculator.pdb
